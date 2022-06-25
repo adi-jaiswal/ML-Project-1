@@ -61,8 +61,4 @@ To check remote url
 git remote -v
 ```
 
-To check remote url
-```
-git remote -v
-```
 
